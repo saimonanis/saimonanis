@@ -1,28 +1,32 @@
-<h1 align="center">Hi 👋, I'm Anisur Rahman</h1>
-<h3 align="center">web developer</h3>
+### Hi there 👋, my name is Anisur Rahman
+#### Web developer
+![Web developer](https://sdmntpraustraliaeast.oaiusercontent.com/files/00000000-6424-61fa-b2bc-84e34f2294d8/raw?se=2025-10-07T13%3A57%3A48Z&sp=r&sv=2024-08-04&sr=b&scid=3211b618-6d87-5e2d-9d98-70d815cbba79&skoid=cb94e22a-e3df-4e6a-9e17-1696f40fa435&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-10-06T23%3A38%3A44Z&ske=2025-10-07T23%3A38%3A44Z&sks=b&skv=2024-08-04&sig=Tv8Tt49ADnAMVJYXWBBqgGyD/KZYdLGy15FoW3v/Trk%3D)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saimonanis&label=Profile%20views&color=0e75b6&style=flat" alt="saimonanis" /> </p>
+👋 Hi, I’m Anisur Rahman, a passionate student and beginner web developer from Bangladesh.
+I’m currently learning the fundamentals of programming and web development.
+I have basic knowledge of CSS, Git, HTML, and JS — and I love exploring how things work behind the screen.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saimonanis" alt="saimonanis" /></a> </p>
+Skills: Git / JS / HTML / CSS
 
-- 🔭 I’m currently working on **My first web site**
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Git / JS / HTML / CSS 
+- 📫 How to reach me: saimonanis44@gmail.com 
+- ⚡ Fun fact: I thing I'm fanny 
 
-- 🌱 I’m currently learning **python**
 
-- 💬 Ask me about **react**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anisur Rahman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Anisur Rahman)  
 
-- 📫 How to reach me **saimonanis44@gmail.com**
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-- ⚡ Fun fact **I Thing I am fanny**
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anisur Rahman)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/anisur rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anisur rahman" height="30" width="40" /></a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anisur Rahman)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anisur Rahman&show_icons=true&count_private=true)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saimonanis&show_icons=true&locale=en&layout=compact" alt="saimonanis" /></p>
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Anisur Rahman/contributions?format=svg&private=true)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saimonanis&show_icons=true&locale=en" alt="saimonanis" /></p>
+![GitHub metrics](https://metrics.lecoq.io/Anisur Rahman)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Anisur Rahman)  
+
